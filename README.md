@@ -1,2 +1,3 @@
-# sophie-test-task
-Sophie app (test task)
+# React + TypeScript + Vite
+
+## Approach: Bulletproof-react
